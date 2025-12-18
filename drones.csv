@@ -1,0 +1,5 @@
+Drone_ID,Drone_name,Manufacturer,Flight_range(km),Price($)
+1001,Viy,SkyUa,10,500
+1002,Molfar,KpiDrones,12,600
+1003,Shark,UkrWings,45,3000
+1004,Reaper,GlobalHawk,1000,1500000
